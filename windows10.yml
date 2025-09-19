@@ -5,7 +5,7 @@ services:
     environment:
       VERSION: "10"
       USERNAME: "ADMIN"
-      PASSWORD: "admin@123"
+      PASSWORD: "axytehost"
       RAM_SIZE: "8G"
       CPU_CORES: "4"
       DISK_SIZE: "400G"
